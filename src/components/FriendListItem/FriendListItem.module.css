@@ -1,0 +1,26 @@
+.item {
+  width: 100px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.text {
+  margin: 0;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}

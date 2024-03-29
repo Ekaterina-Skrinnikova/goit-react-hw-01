@@ -1,0 +1,29 @@
+.table {
+  width: 450px;
+  border-collapse: collapse;
+}
+
+.hat {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.border {
+  border: 2px solid black;
+}
+
+.cell {
+  font-weight: 500;
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+}
+
+.colorBgGrey {
+  background-color: gray;
+}
+
+.colorBgWhite {
+  background-color: white;
+}
